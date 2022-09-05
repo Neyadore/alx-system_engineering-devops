@@ -1,0 +1,2 @@
+#!/bin/bash
+head .. -type f >> sort 
