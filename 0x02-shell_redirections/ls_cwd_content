@@ -1,0 +1,26 @@
+total 80
+-rw-r--r-- 1 root root   45 Sep  5 12:12 ''
+drwxr-xr-x 2 root root 4096 Sep  5 14:53 .
+drwxr-xr-x 6 root root  144 Sep  5 06:47 ..
+-rwxr--r-- 1 root root   32 Sep  5 06:44 0-hello_world
+-rw-r--r-- 1 root root   48 Sep  5 13:12 10-no_more_js
+-rw-r--r-- 1 root root   20 Sep  5 12:47 10-no_more_js~
+-rw-r--r-- 1 root root   12 Sep  5 13:14 #11-directories#
+lrwxrwxrwx 1 root root   22 Sep  5 13:13 .#11-directories -> root@b7acabd46d6c.5859
+-rw-r--r-- 1 root root    0 Sep  5 13:13 11-directories
+-rw-r--r-- 1 root root    0 Sep  5 13:12 11-diretories
+-rwxr--r-- 1 root root   28 Sep  5 06:59 1-confused_smiley
+-rw-r--r-- 1 root root   12 Sep  5 06:49 1-confused_smiley~
+-rwxr--r-- 1 root root   28 Sep  5 07:27 2-hellofile
+-rwxr--r-- 1 root root   25 Sep  5 07:26 2-hellofile~
+-rwxr--r-- 1 root root   39 Sep  5 07:31 3-twofiles
+-rwxr--r-- 1 root root   35 Sep  5 07:43 4-lastlines
+-rwxr--r-- 1 root root   35 Sep  5 07:50 5-firstlines
+-rwxr--r-- 1 root root   45 Sep  5 08:01 6-third_line
+-rwxr--r-- 1 root root   42 Sep  5 07:59 6-third_line~
+-rwxr--r-- 1 root root   99 Sep  5 12:32 7-file
+-rwxr--r-- 1 root root   75 Sep  5 08:24 7-file~
+-rwxr--r-- 1 root root   36 Sep  5 14:52 8-cwd_state
+-rwxr--r-- 1 root root   35 Sep  5 12:45 9-duplicate_last_line
+-rw-r--r-- 1 root root    0 Sep  5 14:53 ls_cwd_content
+-rw-r--r-- 1 root root  266 Sep  5 08:48 README.md
