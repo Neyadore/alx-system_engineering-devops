@@ -1,0 +1,2 @@
+#!/bin/bash
+echo {a..c}{a..c} > text.txt  | tr -d "oo" | sort text.txt
